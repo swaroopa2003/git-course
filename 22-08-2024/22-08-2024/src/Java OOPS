@@ -1,0 +1,29 @@
+Class: 
+
+*What: It is an identifier/concept in java programming, 
+      and it is a template/plan to the Java Object. 
+      
+ what we have inside the class?
+ 
+ 1. Fields/Variables
+ 2. Initializers/Constructors/Blocks
+ 3. Methods
+ 4. Inner classes
+ 
+
+*Why: To make modules/parts
+
+*How: by using 'class' keyword, we will declare the class.
+
+for example,
+
+class Hello
+{
+	//properties
+}
+
+from the above statements
+
+Hello class is behave like a separate module.
+
+*Where: while we developing java projects, we declare classes in packages.
